@@ -1,0 +1,4 @@
+repository "moving-ball-maze@ClaadG@cloud"
+  path "/"
+    br "/main"
+    co "/main"
